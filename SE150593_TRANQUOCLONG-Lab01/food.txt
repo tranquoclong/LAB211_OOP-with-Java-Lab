@@ -1,0 +1,4 @@
+f03,rau ram,100,rau,Freezer,14/10/2021
+f01,rau mong,100,rau,Freezer,13/10/2021
+f02,rau thom,100,rau,Freezer,12/10/2021
+f04,rau gi do,100,rau,Freezer,05/05/2022
