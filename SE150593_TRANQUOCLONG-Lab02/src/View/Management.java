@@ -87,7 +87,7 @@ public class Management {
         if (injection == null) System.out.println("This injection existed!");
       } while (injectionID.isEmpty() || injection == null);
       int index = controller.indexOf(injection);
-      if (injection.getSecondPlace() == null) {
+      if (injection.getSecondPlace() == null || injection.getSecondPlace().equals("null")) {
         do {
           System.out.print("\tEnter second place: ");
           secondPlace = sc.nextLine().toLowerCase().trim();
